@@ -30,9 +30,13 @@ cd sistema_usuarios
 ### Ejecucion del programa
 
 ![Opción 1](images/run1.png)
+
 ![Opción 2](images/run2.png)
+
 ![Opción 3](images/run3.png)
+
 ![Opción 4](images/run4.png)
+
 ![Opción 5](images/run5.png)
 
 ### Configuración variables de entorno
