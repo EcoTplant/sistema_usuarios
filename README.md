@@ -39,9 +39,10 @@ cd sistema_usuarios
 
 Editar el archivo .env (ya incluido en el proyecto) con los valores deseados, como se muestra en el archivo .env.example:
 
-![Ejemplo exitoso](configentorno/exito.png)
+![Configuración variables de entorno](images/configentorno.png)
 
 ### Estructura del proyecto y explicación de módulos
+
 sistema_usuarios/
 ├── app/                     # Paquete principal
 │   ├── config/              # Configuración
